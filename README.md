@@ -48,7 +48,7 @@ Produce an example using the calculator you created in part 1 to demonstrate thi
 
 **I have added in the option to input ANS for a number which equals the previous result. I also added in an initial value for result (result = 0) to avoid any errors.**
 
-4. How might you extend your calculator to support more than two operands for each operation?
+3. How might you extend your calculator to support more than two operands for each operation?
 e.g.
 Add(1, 2, 3) => 6
 **Create a tuple for numbers and operators and then add the inputed numbers, operators to the list.**
@@ -74,7 +74,7 @@ Divide(3, 0) => **Error: Cannot divide by 0!**
 
  
 
-5. How would you extend your calculator to provide a x^n operation?
+6. How would you extend your calculator to provide a x^n operation?
 e.g.
 Power(2, 2) => 4
 Power(2, 4) => 16
