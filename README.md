@@ -6,7 +6,7 @@ Basic calculator task
 Add
 Subtract
 Multiply
-<br>Divide 
+Divide 
 
 Each operation should take as input two operands and produce as output one result.
 e.g.
